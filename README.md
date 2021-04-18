@@ -8,7 +8,7 @@ Made by
 
 Made using Netbeans 8.2.
 
-Java Swing GUI were used for the interface.
+Java Swing GUI was used for the interface.
 
 # Sporcu Kart Oyunu
 
