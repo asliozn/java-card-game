@@ -6,6 +6,9 @@ Made by
 * Aslı Özen
 * Beyza Hatip.
 
+![alt text]("C:\Users\ASUS\Desktop\PROLAB\PROLAB2\Ekran Görüntüsü (197).png")
+
+
 Made using Netbeans 8.2.
 
 Java Swing GUI was used for the interface.
