@@ -6,7 +6,7 @@ Made by
 * Aslı Özen
 * Beyza Hatip.
 
-![alt text]("C:\Users\ASUS\Desktop\PROLAB\PROLAB2\Ekran Görüntüsü (197).png")
+![alt text](![image](https://user-images.githubusercontent.com/61664198/165384093-c130c1fd-0357-4583-a972-b5f9bfe20ffd.png))
 
 
 Made using Netbeans 8.2.
